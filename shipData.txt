@@ -1,0 +1,61 @@
+Dreadnought
+20 14
+Drifter
+410 46
+Skiff
+305 58
+Adrono
+350 52
+Kestrel
+270 71
+Valkyrie
+450 40
+Nomad
+240 77
+Wraith
+380 49
+Corsair
+325 55
+Banshee
+295 63
+Talon
+255 68
+Sparrow
+225 80
+Harrier
+415 44
+Lancer
+345 54
+Zephyr
+280 60
+
+Doomsday
+18 14
+Frigate
+440 42
+Behemoth
+475 38
+Viper
+260 70
+Raptor
+320 57
+Onyx
+360 50
+Specter
+300 62
+Hydra
+395 47
+Cyclone
+235 79
+Ironclad
+455 41
+Mako
+285 65
+Phantom
+340 53
+Tempest
+250 73
+Warden
+425 45
+Juggernaut
+365 51

@@ -1,0 +1,19 @@
+Dreadnought
+5 3
+Drifter
+410 46
+Skiff
+305 58
+Adrono
+350 52
+
+Doomsday
+3 4
+Frigate
+440 42
+Behemoth
+475 38
+Viper
+260 70
+Raptor
+320 57

@@ -1,0 +1,1101 @@
+
+===== FLEETS AS LOADED =====
+Carrier: Dreadnought  (14/20 bays in use)
+   0. Drifter       Structure:  410/410   Damage: 46
+   1. Skiff         Structure:  305/305   Damage: 58
+   2. Adrono        Structure:  350/350   Damage: 52
+   3. Kestrel       Structure:  270/270   Damage: 71
+   4. Valkyrie      Structure:  450/450   Damage: 40
+   5. Nomad         Structure:  240/240   Damage: 77
+   6. Wraith        Structure:  380/380   Damage: 49
+   7. Corsair       Structure:  325/325   Damage: 55
+   8. Banshee       Structure:  295/295   Damage: 63
+   9. Talon         Structure:  255/255   Damage: 68
+  10. Sparrow       Structure:  225/225   Damage: 80
+  11. Harrier       Structure:  415/415   Damage: 44
+  12. Lancer        Structure:  345/345   Damage: 54
+  13. Zephyr        Structure:  280/280   Damage: 60
+
+Carrier: Doomsday  (14/18 bays in use)
+   0. Frigate       Structure:  440/440   Damage: 42
+   1. Behemoth      Structure:  475/475   Damage: 38
+   2. Viper         Structure:  260/260   Damage: 70
+   3. Raptor        Structure:  320/320   Damage: 57
+   4. Onyx          Structure:  360/360   Damage: 50
+   5. Specter       Structure:  300/300   Damage: 62
+   6. Hydra         Structure:  395/395   Damage: 47
+   7. Cyclone       Structure:  235/235   Damage: 79
+   8. Ironclad      Structure:  455/455   Damage: 41
+   9. Mako          Structure:  285/285   Damage: 65
+  10. Phantom       Structure:  340/340   Damage: 53
+  11. Tempest       Structure:  250/250   Damage: 73
+  12. Warden        Structure:  425/425   Damage: 45
+  13. Juggernaut    Structure:  365/365   Damage: 51
+
+
+Dreadnought sorted by name (merge sort):
+Carrier: Dreadnought  (14/20 bays in use)
+   0. Adrono        Structure:  350/350   Damage: 52
+   1. Banshee       Structure:  295/295   Damage: 63
+   2. Corsair       Structure:  325/325   Damage: 55
+   3. Drifter       Structure:  410/410   Damage: 46
+   4. Harrier       Structure:  415/415   Damage: 44
+   5. Kestrel       Structure:  270/270   Damage: 71
+   6. Lancer        Structure:  345/345   Damage: 54
+   7. Nomad         Structure:  240/240   Damage: 77
+   8. Skiff         Structure:  305/305   Damage: 58
+   9. Sparrow       Structure:  225/225   Damage: 80
+  10. Talon         Structure:  255/255   Damage: 68
+  11. Valkyrie      Structure:  450/450   Damage: 40
+  12. Wraith        Structure:  380/380   Damage: 49
+  13. Zephyr        Structure:  280/280   Damage: 60
+
+
+
+Doomsday sorted by name (merge sort):
+Carrier: Doomsday  (14/18 bays in use)
+   0. Behemoth      Structure:  475/475   Damage: 38
+   1. Cyclone       Structure:  235/235   Damage: 79
+   2. Frigate       Structure:  440/440   Damage: 42
+   3. Hydra         Structure:  395/395   Damage: 47
+   4. Ironclad      Structure:  455/455   Damage: 41
+   5. Juggernaut    Structure:  365/365   Damage: 51
+   6. Mako          Structure:  285/285   Damage: 65
+   7. Onyx          Structure:  360/360   Damage: 50
+   8. Phantom       Structure:  340/340   Damage: 53
+   9. Raptor        Structure:  320/320   Damage: 57
+  10. Specter       Structure:  300/300   Damage: 62
+  11. Tempest       Structure:  250/250   Damage: 73
+  12. Viper         Structure:  260/260   Damage: 70
+  13. Warden        Structure:  425/425   Damage: 45
+
+===== LAUNCH ORDER (strongest first) =====
+Carrier: Dreadnought  (14/20 bays in use)
+   0. Valkyrie      Structure:  450/450   Damage: 40
+   1. Harrier       Structure:  415/415   Damage: 44
+   2. Drifter       Structure:  410/410   Damage: 46
+   3. Wraith        Structure:  380/380   Damage: 49
+   4. Adrono        Structure:  350/350   Damage: 52
+   5. Lancer        Structure:  345/345   Damage: 54
+   6. Corsair       Structure:  325/325   Damage: 55
+   7. Skiff         Structure:  305/305   Damage: 58
+   8. Banshee       Structure:  295/295   Damage: 63
+   9. Zephyr        Structure:  280/280   Damage: 60
+  10. Kestrel       Structure:  270/270   Damage: 71
+  11. Talon         Structure:  255/255   Damage: 68
+  12. Nomad         Structure:  240/240   Damage: 77
+  13. Sparrow       Structure:  225/225   Damage: 80
+
+Carrier: Doomsday  (14/18 bays in use)
+   0. Behemoth      Structure:  475/475   Damage: 38
+   1. Ironclad      Structure:  455/455   Damage: 41
+   2. Frigate       Structure:  440/440   Damage: 42
+   3. Warden        Structure:  425/425   Damage: 45
+   4. Hydra         Structure:  395/395   Damage: 47
+   5. Juggernaut    Structure:  365/365   Damage: 51
+   6. Onyx          Structure:  360/360   Damage: 50
+   7. Phantom       Structure:  340/340   Damage: 53
+   8. Raptor        Structure:  320/320   Damage: 57
+   9. Specter       Structure:  300/300   Damage: 62
+  10. Mako          Structure:  285/285   Damage: 65
+  11. Viper         Structure:  260/260   Damage: 70
+  12. Tempest       Structure:  250/250   Damage: 73
+  13. Cyclone       Structure:  235/235   Damage: 79
+
+===== BATTLE =====
+--- Duel 1: Valkyrie (Dreadnought) vs Behemoth (Doomsday) ---
+  [R1] Valkyrie hits Behemoth for 17 (Behemoth: 458/475)
+  [R1] Behemoth hits Valkyrie for 38 (Valkyrie: 412/450)
+  [R2] Behemoth misses Valkyrie
+  [R2] Valkyrie hits Behemoth for 20 (Behemoth: 438/475)
+  [R3] Valkyrie hits Behemoth for 25 (Behemoth: 413/475)
+  [R3] Behemoth misses Valkyrie
+  [R4] Behemoth hits Valkyrie for 12 (Valkyrie: 400/450)
+  [R4] Valkyrie hits Behemoth for 3 (Behemoth: 410/475)
+  [R5] Behemoth hits Valkyrie for 12 (Valkyrie: 388/450)
+  [R5] Valkyrie hits Behemoth for 16 (Behemoth: 394/475)
+  [R6] Behemoth misses Valkyrie
+  [R6] Valkyrie hits Behemoth for 36 (Behemoth: 358/475)
+  [R7] Behemoth misses Valkyrie
+  [R7] Valkyrie hits Behemoth for 18 (Behemoth: 340/475)
+  [R8] Behemoth hits Valkyrie for 8 (Valkyrie: 380/450)
+  [R8] Valkyrie misses Behemoth
+  [R9] Valkyrie hits Behemoth for 13 (Behemoth: 327/475)
+  [R9] Behemoth hits Valkyrie for 4 (Valkyrie: 376/450)
+  [R10] Valkyrie misses Behemoth
+  [R10] Behemoth misses Valkyrie
+  [R11] Valkyrie misses Behemoth
+  [R11] Behemoth misses Valkyrie
+  [R12] Behemoth hits Valkyrie for 9 (Valkyrie: 367/450)
+  [R12] Valkyrie hits Behemoth for 39 (Behemoth: 288/475)
+  [R13] Behemoth misses Valkyrie
+  [R13] Valkyrie hits Behemoth for 2 (Behemoth: 286/475)
+  [R14] Behemoth misses Valkyrie
+  [R14] Valkyrie misses Behemoth
+  [R15] Behemoth hits Valkyrie for 34 (Valkyrie: 333/450)
+  [R15] Valkyrie hits Behemoth for 28 (Behemoth: 258/475)
+  [R16] Behemoth hits Valkyrie for 20 (Valkyrie: 313/450)
+  [R16] Valkyrie misses Behemoth
+  [R17] Valkyrie misses Behemoth
+  [R17] Behemoth hits Valkyrie for 20 (Valkyrie: 293/450)
+  [R18] Behemoth hits Valkyrie for 15 (Valkyrie: 278/450)
+  [R18] Valkyrie hits Behemoth for 12 (Behemoth: 246/475)
+  [R19] Valkyrie hits Behemoth for 19 (Behemoth: 227/475)
+  [R19] Behemoth misses Valkyrie
+  [R20] Behemoth misses Valkyrie
+  [R20] Valkyrie misses Behemoth
+  [R21] Behemoth misses Valkyrie
+  [R21] Valkyrie misses Behemoth
+  [R22] Valkyrie hits Behemoth for 9 (Behemoth: 218/475)
+  [R22] Behemoth misses Valkyrie
+  [R23] Valkyrie misses Behemoth
+  [R23] Behemoth hits Valkyrie for 11 (Valkyrie: 267/450)
+  [R24] Behemoth misses Valkyrie
+  [R24] Valkyrie hits Behemoth for 32 (Behemoth: 186/475)
+  [R25] Valkyrie misses Behemoth
+  [R25] Behemoth misses Valkyrie
+  [R26] Valkyrie hits Behemoth for 39 (Behemoth: 147/475)
+  [R26] Behemoth misses Valkyrie
+  [R27] Valkyrie misses Behemoth
+  [R27] Behemoth misses Valkyrie
+  [R28] Valkyrie misses Behemoth
+  [R28] Behemoth hits Valkyrie for 25 (Valkyrie: 242/450)
+  [R29] Behemoth hits Valkyrie for 18 (Valkyrie: 224/450)
+  [R29] Valkyrie hits Behemoth for 15 (Behemoth: 132/475)
+  [R30] Valkyrie hits Behemoth for 16 (Behemoth: 116/475)
+  [R30] Behemoth hits Valkyrie for 9 (Valkyrie: 215/450)
+  [R31] Behemoth hits Valkyrie for 23 (Valkyrie: 192/450)
+  [R31] Valkyrie hits Behemoth for 4 (Behemoth: 112/475)
+  [R32] Behemoth hits Valkyrie for 28 (Valkyrie: 164/450)
+  [R32] Valkyrie hits Behemoth for 27 (Behemoth: 85/475)
+  [R33] Valkyrie misses Behemoth
+  [R33] Behemoth hits Valkyrie for 23 (Valkyrie: 141/450)
+  [R34] Valkyrie misses Behemoth
+  [R34] Behemoth misses Valkyrie
+  [R35] Behemoth hits Valkyrie for 17 (Valkyrie: 124/450)
+  [R35] Valkyrie misses Behemoth
+  [R36] Valkyrie hits Behemoth for 12 (Behemoth: 73/475)
+  [R36] Behemoth misses Valkyrie
+  [R37] Behemoth misses Valkyrie
+  [R37] Valkyrie misses Behemoth
+  [R38] Behemoth hits Valkyrie for 5 (Valkyrie: 119/450)
+  [R38] Valkyrie hits Behemoth for 7 (Behemoth: 66/475)
+  [R39] Behemoth hits Valkyrie for 3 (Valkyrie: 116/450)
+  [R39] Valkyrie hits Behemoth for 5 (Behemoth: 61/475)
+  [R40] Valkyrie hits Behemoth for 35 (Behemoth: 26/475)
+  [R40] Behemoth hits Valkyrie for 29 (Valkyrie: 87/450)
+  [R41] Valkyrie hits Behemoth for 8 (Behemoth: 18/475)
+  [R41] Behemoth misses Valkyrie
+  [R42] Behemoth misses Valkyrie
+  [R42] Valkyrie hits Behemoth for 10 (Behemoth: 8/475)
+  [R43] Valkyrie hits Behemoth for 23 (Behemoth: 0/475)
+  BOOOOOMMMM Behemoth destroyed!!!!!
+  Valkyrie returns to Dreadnought with 87/450 structure.
+
+--- Duel 2: Harrier (Dreadnought) vs Ironclad (Doomsday) ---
+  [R1] Ironclad hits Harrier for 4 (Harrier: 411/415)
+  [R1] Harrier hits Ironclad for 27 (Ironclad: 428/455)
+  [R2] Ironclad hits Harrier for 21 (Harrier: 390/415)
+  [R2] Harrier hits Ironclad for 38 (Ironclad: 390/455)
+  [R3] Harrier misses Ironclad
+  [R3] Ironclad hits Harrier for 25 (Harrier: 365/415)
+  [R4] Ironclad misses Harrier
+  [R4] Harrier hits Ironclad for 19 (Ironclad: 371/455)
+  [R5] Ironclad hits Harrier for 37 (Harrier: 328/415)
+  [R5] Harrier misses Ironclad
+  [R6] Harrier misses Ironclad
+  [R6] Ironclad hits Harrier for 2 (Harrier: 326/415)
+  [R7] Harrier misses Ironclad
+  [R7] Ironclad hits Harrier for 9 (Harrier: 317/415)
+  [R8] Harrier misses Ironclad
+  [R8] Ironclad misses Harrier
+  [R9] Harrier hits Ironclad for 11 (Ironclad: 360/455)
+  [R9] Ironclad hits Harrier for 37 (Harrier: 280/415)
+  [R10] Ironclad hits Harrier for 25 (Harrier: 255/415)
+  [R10] Harrier misses Ironclad
+  [R11] Harrier misses Ironclad
+  [R11] Ironclad hits Harrier for 10 (Harrier: 245/415)
+  [R12] Ironclad hits Harrier for 18 (Harrier: 227/415)
+  [R12] Harrier hits Ironclad for 32 (Ironclad: 328/455)
+  [R13] Harrier hits Ironclad for 3 (Ironclad: 325/455)
+  [R13] Ironclad misses Harrier
+  [R14] Ironclad misses Harrier
+  [R14] Harrier misses Ironclad
+  [R15] Harrier misses Ironclad
+  [R15] Ironclad hits Harrier for 2 (Harrier: 225/415)
+  [R16] Ironclad hits Harrier for 29 (Harrier: 196/415)
+  [R16] Harrier misses Ironclad
+  [R17] Ironclad misses Harrier
+  [R17] Harrier misses Ironclad
+  [R18] Ironclad hits Harrier for 39 (Harrier: 157/415)
+  [R18] Harrier hits Ironclad for 35 (Ironclad: 290/455)
+  [R19] Ironclad misses Harrier
+  [R19] Harrier misses Ironclad
+  [R20] Ironclad misses Harrier
+  [R20] Harrier misses Ironclad
+  [R21] Harrier hits Ironclad for 44 (Ironclad: 246/455)
+  [R21] Ironclad misses Harrier
+  [R22] Harrier misses Ironclad
+  [R22] Ironclad misses Harrier
+  [R23] Harrier hits Ironclad for 17 (Ironclad: 229/455)
+  [R23] Ironclad hits Harrier for 38 (Harrier: 119/415)
+  [R24] Ironclad hits Harrier for 21 (Harrier: 98/415)
+  [R24] Harrier hits Ironclad for 30 (Ironclad: 199/455)
+  [R25] Ironclad misses Harrier
+  [R25] Harrier misses Ironclad
+  [R26] Harrier hits Ironclad for 13 (Ironclad: 186/455)
+  [R26] Ironclad misses Harrier
+  [R27] Ironclad hits Harrier for 13 (Harrier: 85/415)
+  [R27] Harrier hits Ironclad for 11 (Ironclad: 175/455)
+  [R28] Harrier misses Ironclad
+  [R28] Ironclad misses Harrier
+  [R29] Ironclad hits Harrier for 8 (Harrier: 77/415)
+  [R29] Harrier misses Ironclad
+  [R30] Ironclad misses Harrier
+  [R30] Harrier hits Ironclad for 16 (Ironclad: 159/455)
+  [R31] Ironclad misses Harrier
+  [R31] Harrier hits Ironclad for 8 (Ironclad: 151/455)
+  [R32] Ironclad hits Harrier for 7 (Harrier: 70/415)
+  [R32] Harrier misses Ironclad
+  [R33] Ironclad hits Harrier for 5 (Harrier: 65/415)
+  [R33] Harrier misses Ironclad
+  [R34] Ironclad misses Harrier
+  [R34] Harrier hits Ironclad for 32 (Ironclad: 119/455)
+  [R35] Ironclad misses Harrier
+  [R35] Harrier hits Ironclad for 32 (Ironclad: 87/455)
+  [R36] Ironclad hits Harrier for 5 (Harrier: 60/415)
+  [R36] Harrier hits Ironclad for 8 (Ironclad: 79/455)
+  [R37] Ironclad misses Harrier
+  [R37] Harrier misses Ironclad
+  [R38] Harrier misses Ironclad
+  [R38] Ironclad hits Harrier for 9 (Harrier: 51/415)
+  [R39] Ironclad misses Harrier
+  [R39] Harrier misses Ironclad
+  [R40] Ironclad hits Harrier for 8 (Harrier: 43/415)
+  [R40] Harrier misses Ironclad
+  [R41] Ironclad hits Harrier for 26 (Harrier: 17/415)
+  [R41] Harrier hits Ironclad for 44 (Ironclad: 35/455)
+  [R42] Harrier hits Ironclad for 31 (Ironclad: 4/455)
+  [R42] Ironclad misses Harrier
+  [R43] Ironclad hits Harrier for 7 (Harrier: 10/415)
+  [R43] Harrier hits Ironclad for 14 (Ironclad: 0/455)
+  BOOOOOMMMM Ironclad destroyed!!!!!
+  Harrier returns to Dreadnought with 10/415 structure.
+
+--- Duel 3: Drifter (Dreadnought) vs Frigate (Doomsday) ---
+  [R1] Drifter hits Frigate for 18 (Frigate: 422/440)
+  [R1] Frigate hits Drifter for 35 (Drifter: 375/410)
+  [R2] Frigate misses Drifter
+  [R2] Drifter hits Frigate for 38 (Frigate: 384/440)
+  [R3] Drifter misses Frigate
+  [R3] Frigate misses Drifter
+  [R4] Drifter misses Frigate
+  [R4] Frigate misses Drifter
+  [R5] Drifter hits Frigate for 37 (Frigate: 347/440)
+  [R5] Frigate hits Drifter for 42 (Drifter: 333/410)
+  [R6] Frigate misses Drifter
+  [R6] Drifter misses Frigate
+  [R7] Drifter misses Frigate
+  [R7] Frigate misses Drifter
+  [R8] Frigate hits Drifter for 4 (Drifter: 329/410)
+  [R8] Drifter hits Frigate for 41 (Frigate: 306/440)
+  [R9] Frigate hits Drifter for 9 (Drifter: 320/410)
+  [R9] Drifter hits Frigate for 6 (Frigate: 300/440)
+  [R10] Frigate misses Drifter
+  [R10] Drifter misses Frigate
+  [R11] Frigate hits Drifter for 21 (Drifter: 299/410)
+  [R11] Drifter hits Frigate for 4 (Frigate: 296/440)
+  [R12] Drifter misses Frigate
+  [R12] Frigate misses Drifter
+  [R13] Drifter hits Frigate for 2 (Frigate: 294/440)
+  [R13] Frigate hits Drifter for 12 (Drifter: 287/410)
+  [R14] Frigate hits Drifter for 14 (Drifter: 273/410)
+  [R14] Drifter misses Frigate
+  [R15] Frigate misses Drifter
+  [R15] Drifter hits Frigate for 2 (Frigate: 292/440)
+  [R16] Drifter hits Frigate for 40 (Frigate: 252/440)
+  [R16] Frigate hits Drifter for 5 (Drifter: 268/410)
+  [R17] Drifter hits Frigate for 37 (Frigate: 215/440)
+  [R17] Frigate misses Drifter
+  [R18] Frigate hits Drifter for 26 (Drifter: 242/410)
+  [R18] Drifter misses Frigate
+  [R19] Frigate hits Drifter for 23 (Drifter: 219/410)
+  [R19] Drifter misses Frigate
+  [R20] Drifter hits Frigate for 5 (Frigate: 210/440)
+  [R20] Frigate misses Drifter
+  [R21] Drifter misses Frigate
+  [R21] Frigate misses Drifter
+  [R22] Frigate misses Drifter
+  [R22] Drifter hits Frigate for 4 (Frigate: 206/440)
+  [R23] Frigate misses Drifter
+  [R23] Drifter misses Frigate
+  [R24] Drifter hits Frigate for 41 (Frigate: 165/440)
+  [R24] Frigate hits Drifter for 32 (Drifter: 187/410)
+  [R25] Drifter hits Frigate for 15 (Frigate: 150/440)
+  [R25] Frigate misses Drifter
+  [R26] Frigate misses Drifter
+  [R26] Drifter misses Frigate
+  [R27] Drifter hits Frigate for 34 (Frigate: 116/440)
+  [R27] Frigate hits Drifter for 24 (Drifter: 163/410)
+  [R28] Drifter hits Frigate for 27 (Frigate: 89/440)
+  [R28] Frigate hits Drifter for 29 (Drifter: 134/410)
+  [R29] Drifter hits Frigate for 9 (Frigate: 80/440)
+  [R29] Frigate hits Drifter for 26 (Drifter: 108/410)
+  [R30] Drifter misses Frigate
+  [R30] Frigate hits Drifter for 23 (Drifter: 85/410)
+  [R31] Frigate misses Drifter
+  [R31] Drifter hits Frigate for 23 (Frigate: 57/440)
+  [R32] Drifter hits Frigate for 6 (Frigate: 51/440)
+  [R32] Frigate hits Drifter for 32 (Drifter: 53/410)
+  [R33] Frigate hits Drifter for 10 (Drifter: 43/410)
+  [R33] Drifter hits Frigate for 37 (Frigate: 14/440)
+  [R34] Frigate hits Drifter for 2 (Drifter: 41/410)
+  [R34] Drifter hits Frigate for 38 (Frigate: 0/440)
+  BOOOOOMMMM Frigate destroyed!!!!!
+  Drifter returns to Dreadnought with 41/410 structure.
+
+--- Duel 4: Wraith (Dreadnought) vs Warden (Doomsday) ---
+  [R1] Wraith hits Warden for 17 (Warden: 408/425)
+  [R1] Warden hits Wraith for 36 (Wraith: 344/380)
+  [R2] Warden misses Wraith
+  [R2] Wraith hits Warden for 48 (Warden: 360/425)
+  [R3] Warden misses Wraith
+  [R3] Wraith misses Warden
+  [R4] Wraith misses Warden
+  [R4] Warden hits Wraith for 26 (Wraith: 318/380)
+  [R5] Warden hits Wraith for 39 (Wraith: 279/380)
+  [R5] Wraith misses Warden
+  [R6] Wraith misses Warden
+  [R6] Warden misses Wraith
+  [R7] Wraith hits Warden for 44 (Warden: 316/425)
+  [R7] Warden misses Wraith
+  [R8] Warden hits Wraith for 18 (Wraith: 261/380)
+  [R8] Wraith hits Warden for 49 (Warden: 267/425)
+  [R9] Warden hits Wraith for 8 (Wraith: 253/380)
+  [R9] Wraith hits Warden for 43 (Warden: 224/425)
+  [R10] Warden misses Wraith
+  [R10] Wraith misses Warden
+  [R11] Wraith misses Warden
+  [R11] Warden misses Wraith
+  [R12] Wraith hits Warden for 18 (Warden: 206/425)
+  [R12] Warden misses Wraith
+  [R13] Warden misses Wraith
+  [R13] Wraith misses Warden
+  [R14] Warden misses Wraith
+  [R14] Wraith hits Warden for 24 (Warden: 182/425)
+  [R15] Wraith misses Warden
+  [R15] Warden hits Wraith for 19 (Wraith: 234/380)
+  [R16] Wraith hits Warden for 26 (Warden: 156/425)
+  [R16] Warden misses Wraith
+  [R17] Wraith misses Warden
+  [R17] Warden hits Wraith for 8 (Wraith: 226/380)
+  [R18] Wraith misses Warden
+  [R18] Warden hits Wraith for 16 (Wraith: 210/380)
+  [R19] Wraith hits Warden for 12 (Warden: 144/425)
+  [R19] Warden hits Wraith for 27 (Wraith: 183/380)
+  [R20] Wraith misses Warden
+  [R20] Warden hits Wraith for 44 (Wraith: 139/380)
+  [R21] Wraith misses Warden
+  [R21] Warden hits Wraith for 17 (Wraith: 122/380)
+  [R22] Warden misses Wraith
+  [R22] Wraith misses Warden
+  [R23] Warden hits Wraith for 1 (Wraith: 121/380)
+  [R23] Wraith hits Warden for 8 (Warden: 136/425)
+  [R24] Wraith hits Warden for 28 (Warden: 108/425)
+  [R24] Warden hits Wraith for 3 (Wraith: 118/380)
+  [R25] Warden hits Wraith for 18 (Wraith: 100/380)
+  [R25] Wraith misses Warden
+  [R26] Warden misses Wraith
+  [R26] Wraith misses Warden
+  [R27] Wraith hits Warden for 45 (Warden: 63/425)
+  [R27] Warden hits Wraith for 26 (Wraith: 74/380)
+  [R28] Wraith misses Warden
+  [R28] Warden hits Wraith for 10 (Wraith: 64/380)
+  [R29] Warden misses Wraith
+  [R29] Wraith hits Warden for 2 (Warden: 61/425)
+  [R30] Warden hits Wraith for 2 (Wraith: 62/380)
+  [R30] Wraith misses Warden
+  [R31] Warden misses Wraith
+  [R31] Wraith hits Warden for 5 (Warden: 56/425)
+  [R32] Warden misses Wraith
+  [R32] Wraith hits Warden for 40 (Warden: 16/425)
+  [R33] Wraith misses Warden
+  [R33] Warden hits Wraith for 6 (Wraith: 56/380)
+  [R34] Warden misses Wraith
+  [R34] Wraith misses Warden
+  [R35] Warden hits Wraith for 13 (Wraith: 43/380)
+  [R35] Wraith misses Warden
+  [R36] Warden misses Wraith
+  [R36] Wraith misses Warden
+  [R37] Warden misses Wraith
+  [R37] Wraith misses Warden
+  [R38] Warden misses Wraith
+  [R38] Wraith hits Warden for 31 (Warden: 0/425)
+  BOOOOOMMMM Warden destroyed!!!!!
+  Wraith returns to Dreadnought with 43/380 structure.
+
+--- Duel 5: Adrono (Dreadnought) vs Hydra (Doomsday) ---
+  [R1] Adrono hits Hydra for 22 (Hydra: 373/395)
+  [R1] Hydra misses Adrono
+  [R2] Hydra misses Adrono
+  [R2] Adrono misses Hydra
+  [R3] Adrono hits Hydra for 38 (Hydra: 335/395)
+  [R3] Hydra hits Adrono for 22 (Adrono: 328/350)
+  [R4] Adrono hits Hydra for 28 (Hydra: 307/395)
+  [R4] Hydra hits Adrono for 13 (Adrono: 315/350)
+  [R5] Hydra hits Adrono for 21 (Adrono: 294/350)
+  [R5] Adrono hits Hydra for 36 (Hydra: 271/395)
+  [R6] Adrono hits Hydra for 37 (Hydra: 234/395)
+  [R6] Hydra hits Adrono for 36 (Adrono: 258/350)
+  [R7] Hydra misses Adrono
+  [R7] Adrono misses Hydra
+  [R8] Hydra hits Adrono for 23 (Adrono: 235/350)
+  [R8] Adrono misses Hydra
+  [R9] Hydra hits Adrono for 16 (Adrono: 219/350)
+  [R9] Adrono misses Hydra
+  [R10] Adrono misses Hydra
+  [R10] Hydra misses Adrono
+  [R11] Adrono hits Hydra for 35 (Hydra: 199/395)
+  [R11] Hydra misses Adrono
+  [R12] Hydra misses Adrono
+  [R12] Adrono hits Hydra for 40 (Hydra: 159/395)
+  [R13] Hydra hits Adrono for 18 (Adrono: 201/350)
+  [R13] Adrono misses Hydra
+  [R14] Adrono misses Hydra
+  [R14] Hydra misses Adrono
+  [R15] Hydra hits Adrono for 19 (Adrono: 182/350)
+  [R15] Adrono misses Hydra
+  [R16] Hydra misses Adrono
+  [R16] Adrono hits Hydra for 9 (Hydra: 150/395)
+  [R17] Hydra misses Adrono
+  [R17] Adrono misses Hydra
+  [R18] Adrono misses Hydra
+  [R18] Hydra hits Adrono for 4 (Adrono: 178/350)
+  [R19] Hydra misses Adrono
+  [R19] Adrono misses Hydra
+  [R20] Adrono hits Hydra for 1 (Hydra: 149/395)
+  [R20] Hydra misses Adrono
+  [R21] Adrono hits Hydra for 1 (Hydra: 148/395)
+  [R21] Hydra misses Adrono
+  [R22] Hydra misses Adrono
+  [R22] Adrono hits Hydra for 1 (Hydra: 147/395)
+  [R23] Hydra misses Adrono
+  [R23] Adrono hits Hydra for 24 (Hydra: 123/395)
+  [R24] Adrono misses Hydra
+  [R24] Hydra misses Adrono
+  [R25] Adrono misses Hydra
+  [R25] Hydra misses Adrono
+  [R26] Adrono misses Hydra
+  [R26] Hydra hits Adrono for 42 (Adrono: 136/350)
+  [R27] Hydra hits Adrono for 45 (Adrono: 91/350)
+  [R27] Adrono hits Hydra for 32 (Hydra: 91/395)
+  [R28] Adrono misses Hydra
+  [R28] Hydra hits Adrono for 4 (Adrono: 87/350)
+  [R29] Adrono misses Hydra
+  [R29] Hydra hits Adrono for 7 (Adrono: 80/350)
+  [R30] Adrono misses Hydra
+  [R30] Hydra hits Adrono for 12 (Adrono: 68/350)
+  [R31] Adrono misses Hydra
+  [R31] Hydra misses Adrono
+  [R32] Adrono misses Hydra
+  [R32] Hydra misses Adrono
+  [R33] Hydra misses Adrono
+  [R33] Adrono hits Hydra for 18 (Hydra: 73/395)
+  [R34] Hydra hits Adrono for 24 (Adrono: 44/350)
+  [R34] Adrono hits Hydra for 13 (Hydra: 60/395)
+  [R35] Adrono misses Hydra
+  [R35] Hydra hits Adrono for 38 (Adrono: 6/350)
+  [R36] Adrono hits Hydra for 18 (Hydra: 42/395)
+  [R36] Hydra hits Adrono for 46 (Adrono: 0/350)
+  BOOOOOMMMM Adrono destroyed!!!!!
+  Hydra returns to Doomsday with 42/395 structure.
+
+--- Duel 6: Lancer (Dreadnought) vs Juggernaut (Doomsday) ---
+  [R1] Juggernaut misses Lancer
+  [R1] Lancer hits Juggernaut for 39 (Juggernaut: 326/365)
+  [R2] Lancer misses Juggernaut
+  [R2] Juggernaut hits Lancer for 4 (Lancer: 341/345)
+  [R3] Juggernaut hits Lancer for 7 (Lancer: 334/345)
+  [R3] Lancer misses Juggernaut
+  [R4] Juggernaut hits Lancer for 16 (Lancer: 318/345)
+  [R4] Lancer hits Juggernaut for 49 (Juggernaut: 277/365)
+  [R5] Juggernaut hits Lancer for 35 (Lancer: 283/345)
+  [R5] Lancer hits Juggernaut for 12 (Juggernaut: 265/365)
+  [R6] Juggernaut hits Lancer for 41 (Lancer: 242/345)
+  [R6] Lancer hits Juggernaut for 51 (Juggernaut: 214/365)
+  [R7] Lancer hits Juggernaut for 32 (Juggernaut: 182/365)
+  [R7] Juggernaut misses Lancer
+  [R8] Lancer misses Juggernaut
+  [R8] Juggernaut hits Lancer for 13 (Lancer: 229/345)
+  [R9] Lancer misses Juggernaut
+  [R9] Juggernaut misses Lancer
+  [R10] Juggernaut hits Lancer for 43 (Lancer: 186/345)
+  [R10] Lancer hits Juggernaut for 33 (Juggernaut: 149/365)
+  [R11] Juggernaut misses Lancer
+  [R11] Lancer misses Juggernaut
+  [R12] Juggernaut misses Lancer
+  [R12] Lancer hits Juggernaut for 6 (Juggernaut: 143/365)
+  [R13] Juggernaut hits Lancer for 3 (Lancer: 183/345)
+  [R13] Lancer hits Juggernaut for 50 (Juggernaut: 93/365)
+  [R14] Juggernaut hits Lancer for 3 (Lancer: 180/345)
+  [R14] Lancer misses Juggernaut
+  [R15] Juggernaut misses Lancer
+  [R15] Lancer hits Juggernaut for 22 (Juggernaut: 71/365)
+  [R16] Lancer hits Juggernaut for 16 (Juggernaut: 55/365)
+  [R16] Juggernaut hits Lancer for 14 (Lancer: 166/345)
+  [R17] Lancer hits Juggernaut for 14 (Juggernaut: 41/365)
+  [R17] Juggernaut misses Lancer
+  [R18] Lancer misses Juggernaut
+  [R18] Juggernaut misses Lancer
+  [R19] Lancer misses Juggernaut
+  [R19] Juggernaut hits Lancer for 25 (Lancer: 141/345)
+  [R20] Juggernaut hits Lancer for 39 (Lancer: 102/345)
+  [R20] Lancer hits Juggernaut for 43 (Juggernaut: 0/365)
+  BOOOOOMMMM Juggernaut destroyed!!!!!
+  Lancer returns to Dreadnought with 102/345 structure.
+
+--- Duel 7: Corsair (Dreadnought) vs Onyx (Doomsday) ---
+  [R1] Corsair hits Onyx for 2 (Onyx: 358/360)
+  [R1] Onyx misses Corsair
+  [R2] Onyx hits Corsair for 35 (Corsair: 290/325)
+  [R2] Corsair misses Onyx
+  [R3] Corsair hits Onyx for 43 (Onyx: 315/360)
+  [R3] Onyx misses Corsair
+  [R4] Onyx hits Corsair for 24 (Corsair: 266/325)
+  [R4] Corsair hits Onyx for 44 (Onyx: 271/360)
+  [R5] Onyx hits Corsair for 24 (Corsair: 242/325)
+  [R5] Corsair hits Onyx for 1 (Onyx: 270/360)
+  [R6] Onyx hits Corsair for 12 (Corsair: 230/325)
+  [R6] Corsair misses Onyx
+  [R7] Corsair misses Onyx
+  [R7] Onyx misses Corsair
+  [R8] Corsair hits Onyx for 47 (Onyx: 223/360)
+  [R8] Onyx hits Corsair for 10 (Corsair: 220/325)
+  [R9] Onyx hits Corsair for 2 (Corsair: 218/325)
+  [R9] Corsair misses Onyx
+  [R10] Onyx misses Corsair
+  [R10] Corsair hits Onyx for 17 (Onyx: 206/360)
+  [R11] Onyx misses Corsair
+  [R11] Corsair misses Onyx
+  [R12] Onyx misses Corsair
+  [R12] Corsair hits Onyx for 28 (Onyx: 178/360)
+  [R13] Onyx hits Corsair for 11 (Corsair: 207/325)
+  [R13] Corsair hits Onyx for 6 (Onyx: 172/360)
+  [R14] Onyx hits Corsair for 24 (Corsair: 183/325)
+  [R14] Corsair misses Onyx
+  [R15] Onyx misses Corsair
+  [R15] Corsair hits Onyx for 7 (Onyx: 165/360)
+  [R16] Corsair hits Onyx for 19 (Onyx: 146/360)
+  [R16] Onyx hits Corsair for 13 (Corsair: 170/325)
+  [R17] Corsair misses Onyx
+  [R17] Onyx hits Corsair for 22 (Corsair: 148/325)
+  [R18] Onyx misses Corsair
+  [R18] Corsair hits Onyx for 19 (Onyx: 127/360)
+  [R19] Onyx misses Corsair
+  [R19] Corsair hits Onyx for 15 (Onyx: 112/360)
+  [R20] Onyx hits Corsair for 35 (Corsair: 113/325)
+  [R20] Corsair misses Onyx
+  [R21] Onyx hits Corsair for 2 (Corsair: 111/325)
+  [R21] Corsair hits Onyx for 47 (Onyx: 65/360)
+  [R22] Onyx misses Corsair
+  [R22] Corsair hits Onyx for 7 (Onyx: 58/360)
+  [R23] Onyx misses Corsair
+  [R23] Corsair misses Onyx
+  [R24] Corsair misses Onyx
+  [R24] Onyx hits Corsair for 30 (Corsair: 81/325)
+  [R25] Onyx misses Corsair
+  [R25] Corsair hits Onyx for 4 (Onyx: 54/360)
+  [R26] Corsair misses Onyx
+  [R26] Onyx hits Corsair for 11 (Corsair: 70/325)
+  [R27] Onyx hits Corsair for 32 (Corsair: 38/325)
+  [R27] Corsair misses Onyx
+  [R28] Corsair hits Onyx for 46 (Onyx: 8/360)
+  [R28] Onyx hits Corsair for 27 (Corsair: 11/325)
+  [R29] Onyx hits Corsair for 18 (Corsair: 0/325)
+  BOOOOOMMMM Corsair destroyed!!!!!
+  Onyx returns to Doomsday with 8/360 structure.
+
+--- Duel 8: Skiff (Dreadnought) vs Phantom (Doomsday) ---
+  [R1] Phantom misses Skiff
+  [R1] Skiff hits Phantom for 43 (Phantom: 297/340)
+  [R2] Skiff misses Phantom
+  [R2] Phantom hits Skiff for 34 (Skiff: 271/305)
+  [R3] Skiff hits Phantom for 27 (Phantom: 270/340)
+  [R3] Phantom misses Skiff
+  [R4] Phantom misses Skiff
+  [R4] Skiff misses Phantom
+  [R5] Phantom hits Skiff for 43 (Skiff: 228/305)
+  [R5] Skiff misses Phantom
+  [R6] Phantom misses Skiff
+  [R6] Skiff hits Phantom for 35 (Phantom: 235/340)
+  [R7] Phantom hits Skiff for 49 (Skiff: 179/305)
+  [R7] Skiff misses Phantom
+  [R8] Skiff misses Phantom
+  [R8] Phantom misses Skiff
+  [R9] Skiff misses Phantom
+  [R9] Phantom misses Skiff
+  [R10] Phantom hits Skiff for 35 (Skiff: 144/305)
+  [R10] Skiff hits Phantom for 52 (Phantom: 183/340)
+  [R11] Phantom hits Skiff for 11 (Skiff: 133/305)
+  [R11] Skiff misses Phantom
+  [R12] Skiff misses Phantom
+  [R12] Phantom hits Skiff for 22 (Skiff: 111/305)
+  [R13] Skiff hits Phantom for 2 (Phantom: 181/340)
+  [R13] Phantom misses Skiff
+  [R14] Phantom misses Skiff
+  [R14] Skiff misses Phantom
+  [R15] Phantom hits Skiff for 34 (Skiff: 77/305)
+  [R15] Skiff hits Phantom for 55 (Phantom: 126/340)
+  [R16] Skiff hits Phantom for 45 (Phantom: 81/340)
+  [R16] Phantom hits Skiff for 26 (Skiff: 51/305)
+  [R17] Skiff hits Phantom for 3 (Phantom: 78/340)
+  [R17] Phantom misses Skiff
+  [R18] Phantom hits Skiff for 31 (Skiff: 20/305)
+  [R18] Skiff hits Phantom for 30 (Phantom: 48/340)
+  [R19] Skiff hits Phantom for 20 (Phantom: 28/340)
+  [R19] Phantom hits Skiff for 48 (Skiff: 0/305)
+  BOOOOOMMMM Skiff destroyed!!!!!
+  Phantom returns to Doomsday with 28/340 structure.
+
+--- Duel 9: Banshee (Dreadnought) vs Raptor (Doomsday) ---
+  [R1] Banshee hits Raptor for 18 (Raptor: 302/320)
+  [R1] Raptor hits Banshee for 5 (Banshee: 290/295)
+  [R2] Banshee misses Raptor
+  [R2] Raptor misses Banshee
+  [R3] Banshee hits Raptor for 22 (Raptor: 280/320)
+  [R3] Raptor hits Banshee for 33 (Banshee: 257/295)
+  [R4] Raptor hits Banshee for 42 (Banshee: 215/295)
+  [R4] Banshee hits Raptor for 18 (Raptor: 262/320)
+  [R5] Raptor misses Banshee
+  [R5] Banshee hits Raptor for 62 (Raptor: 200/320)
+  [R6] Banshee hits Raptor for 59 (Raptor: 141/320)
+  [R6] Raptor misses Banshee
+  [R7] Raptor misses Banshee
+  [R7] Banshee misses Raptor
+  [R8] Raptor hits Banshee for 3 (Banshee: 212/295)
+  [R8] Banshee hits Raptor for 37 (Raptor: 104/320)
+  [R9] Banshee hits Raptor for 9 (Raptor: 95/320)
+  [R9] Raptor hits Banshee for 41 (Banshee: 171/295)
+  [R10] Raptor misses Banshee
+  [R10] Banshee hits Raptor for 25 (Raptor: 70/320)
+  [R11] Raptor hits Banshee for 17 (Banshee: 154/295)
+  [R11] Banshee hits Raptor for 4 (Raptor: 66/320)
+  [R12] Raptor misses Banshee
+  [R12] Banshee hits Raptor for 57 (Raptor: 9/320)
+  [R13] Raptor hits Banshee for 14 (Banshee: 140/295)
+  [R13] Banshee misses Raptor
+  [R14] Raptor hits Banshee for 39 (Banshee: 101/295)
+  [R14] Banshee misses Raptor
+  [R15] Banshee hits Raptor for 61 (Raptor: 0/320)
+  BOOOOOMMMM Raptor destroyed!!!!!
+  Banshee returns to Dreadnought with 101/295 structure.
+
+--- Duel 10: Valkyrie (Dreadnought) vs Specter (Doomsday) ---
+  [R1] Specter hits Valkyrie for 40 (Valkyrie: 245/450)
+  [R1] Valkyrie hits Specter for 19 (Specter: 281/300)
+  [R2] Valkyrie misses Specter
+  [R2] Specter hits Valkyrie for 43 (Valkyrie: 202/450)
+  [R3] Specter misses Valkyrie
+  [R3] Valkyrie hits Specter for 13 (Specter: 268/300)
+  [R4] Specter hits Valkyrie for 8 (Valkyrie: 194/450)
+  [R4] Valkyrie hits Specter for 23 (Specter: 245/300)
+  [R5] Specter misses Valkyrie
+  [R5] Valkyrie misses Specter
+  [R6] Specter hits Valkyrie for 48 (Valkyrie: 146/450)
+  [R6] Valkyrie hits Specter for 15 (Specter: 230/300)
+  [R7] Specter misses Valkyrie
+  [R7] Valkyrie misses Specter
+  [R8] Valkyrie misses Specter
+  [R8] Specter misses Valkyrie
+  [R9] Valkyrie misses Specter
+  [R9] Specter misses Valkyrie
+  [R10] Valkyrie misses Specter
+  [R10] Specter misses Valkyrie
+  [R11] Valkyrie misses Specter
+  [R11] Specter hits Valkyrie for 49 (Valkyrie: 97/450)
+  [R12] Valkyrie misses Specter
+  [R12] Specter misses Valkyrie
+  [R13] Specter hits Valkyrie for 33 (Valkyrie: 64/450)
+  [R13] Valkyrie hits Specter for 11 (Specter: 219/300)
+  [R14] Specter hits Valkyrie for 32 (Valkyrie: 32/450)
+  [R14] Valkyrie hits Specter for 11 (Specter: 208/300)
+  [R15] Specter hits Valkyrie for 29 (Valkyrie: 3/450)
+  [R15] Valkyrie misses Specter
+  [R16] Valkyrie hits Specter for 16 (Specter: 192/300)
+  [R16] Specter hits Valkyrie for 6 (Valkyrie: 0/450)
+  BOOOOOMMMM Valkyrie destroyed!!!!!
+  Specter returns to Doomsday with 192/300 structure.
+
+--- Duel 11: Zephyr (Dreadnought) vs Mako (Doomsday) ---
+  [R1] Zephyr hits Mako for 12 (Mako: 273/285)
+  [R1] Mako hits Zephyr for 37 (Zephyr: 243/280)
+  [R2] Zephyr misses Mako
+  [R2] Mako hits Zephyr for 37 (Zephyr: 206/280)
+  [R3] Zephyr misses Mako
+  [R3] Mako hits Zephyr for 48 (Zephyr: 158/280)
+  [R4] Zephyr hits Mako for 56 (Mako: 217/285)
+  [R4] Mako hits Zephyr for 16 (Zephyr: 142/280)
+  [R5] Mako misses Zephyr
+  [R5] Zephyr hits Mako for 32 (Mako: 185/285)
+  [R6] Zephyr hits Mako for 58 (Mako: 127/285)
+  [R6] Mako misses Zephyr
+  [R7] Mako misses Zephyr
+  [R7] Zephyr misses Mako
+  [R8] Zephyr misses Mako
+  [R8] Mako misses Zephyr
+  [R9] Zephyr misses Mako
+  [R9] Mako misses Zephyr
+  [R10] Zephyr hits Mako for 3 (Mako: 124/285)
+  [R10] Mako misses Zephyr
+  [R11] Mako hits Zephyr for 41 (Zephyr: 101/280)
+  [R11] Zephyr hits Mako for 46 (Mako: 78/285)
+  [R12] Zephyr misses Mako
+  [R12] Mako misses Zephyr
+  [R13] Mako hits Zephyr for 13 (Zephyr: 88/280)
+  [R13] Zephyr hits Mako for 42 (Mako: 36/285)
+  [R14] Mako hits Zephyr for 7 (Zephyr: 81/280)
+  [R14] Zephyr hits Mako for 32 (Mako: 4/285)
+  [R15] Zephyr misses Mako
+  [R15] Mako misses Zephyr
+  [R16] Mako hits Zephyr for 62 (Zephyr: 19/280)
+  [R16] Zephyr hits Mako for 59 (Mako: 0/285)
+  BOOOOOMMMM Mako destroyed!!!!!
+  Zephyr returns to Dreadnought with 19/280 structure.
+
+--- Duel 12: Kestrel (Dreadnought) vs Viper (Doomsday) ---
+  [R1] Viper hits Kestrel for 63 (Kestrel: 207/270)
+  [R1] Kestrel misses Viper
+  [R2] Viper hits Kestrel for 61 (Kestrel: 146/270)
+  [R2] Kestrel hits Viper for 12 (Viper: 248/260)
+  [R3] Viper misses Kestrel
+  [R3] Kestrel hits Viper for 2 (Viper: 246/260)
+  [R4] Kestrel misses Viper
+  [R4] Viper hits Kestrel for 27 (Kestrel: 119/270)
+  [R5] Viper hits Kestrel for 49 (Kestrel: 70/270)
+  [R5] Kestrel misses Viper
+  [R6] Kestrel hits Viper for 20 (Viper: 226/260)
+  [R6] Viper misses Kestrel
+  [R7] Kestrel hits Viper for 65 (Viper: 161/260)
+  [R7] Viper misses Kestrel
+  [R8] Kestrel misses Viper
+  [R8] Viper hits Kestrel for 58 (Kestrel: 12/270)
+  [R9] Kestrel misses Viper
+  [R9] Viper hits Kestrel for 51 (Kestrel: 0/270)
+  BOOOOOMMMM Kestrel destroyed!!!!!
+  Viper returns to Doomsday with 161/260 structure.
+
+--- Duel 13: Talon (Dreadnought) vs Tempest (Doomsday) ---
+  [R1] Tempest misses Talon
+  [R1] Talon misses Tempest
+  [R2] Tempest hits Talon for 29 (Talon: 226/255)
+  [R2] Talon misses Tempest
+  [R3] Tempest hits Talon for 36 (Talon: 190/255)
+  [R3] Talon misses Tempest
+  [R4] Talon hits Tempest for 62 (Tempest: 188/250)
+  [R4] Tempest misses Talon
+  [R5] Tempest misses Talon
+  [R5] Talon hits Tempest for 43 (Tempest: 145/250)
+  [R6] Tempest hits Talon for 54 (Talon: 136/255)
+  [R6] Talon hits Tempest for 28 (Tempest: 117/250)
+  [R7] Tempest misses Talon
+  [R7] Talon hits Tempest for 25 (Tempest: 92/250)
+  [R8] Talon misses Tempest
+  [R8] Tempest misses Talon
+  [R9] Tempest misses Talon
+  [R9] Talon hits Tempest for 52 (Tempest: 40/250)
+  [R10] Tempest misses Talon
+  [R10] Talon misses Tempest
+  [R11] Talon hits Tempest for 65 (Tempest: 0/250)
+  BOOOOOMMMM Tempest destroyed!!!!!
+  Talon returns to Dreadnought with 136/255 structure.
+
+--- Duel 14: Drifter (Dreadnought) vs Specter (Doomsday) ---
+  [R1] Drifter hits Specter for 9 (Specter: 243/300)
+  [R1] Specter hits Drifter for 60 (Drifter: 201/410)
+  [R2] Specter misses Drifter
+  [R2] Drifter misses Specter
+  [R3] Drifter hits Specter for 30 (Specter: 213/300)
+  [R3] Specter misses Drifter
+  [R4] Drifter misses Specter
+  [R4] Specter hits Drifter for 47 (Drifter: 154/410)
+  [R5] Specter misses Drifter
+  [R5] Drifter hits Specter for 20 (Specter: 193/300)
+  [R6] Drifter misses Specter
+  [R6] Specter hits Drifter for 42 (Drifter: 112/410)
+  [R7] Specter hits Drifter for 32 (Drifter: 80/410)
+  [R7] Drifter misses Specter
+  [R8] Specter misses Drifter
+  [R8] Drifter misses Specter
+  [R9] Specter hits Drifter for 38 (Drifter: 42/410)
+  [R9] Drifter misses Specter
+  [R10] Specter misses Drifter
+  [R10] Drifter hits Specter for 19 (Specter: 174/300)
+  [R11] Drifter misses Specter
+  [R11] Specter hits Drifter for 19 (Drifter: 23/410)
+  [R12] Specter misses Drifter
+  [R12] Drifter hits Specter for 12 (Specter: 162/300)
+  [R13] Specter misses Drifter
+  [R13] Drifter hits Specter for 5 (Specter: 157/300)
+  [R14] Specter hits Drifter for 60 (Drifter: 0/410)
+  BOOOOOMMMM Drifter destroyed!!!!!
+  Specter returns to Doomsday with 157/300 structure.
+
+--- Duel 15: Harrier (Dreadnought) vs Cyclone (Doomsday) ---
+  [R1] Harrier misses Cyclone
+  [R1] Cyclone misses Harrier
+  [R2] Harrier hits Cyclone for 2 (Cyclone: 233/235)
+  [R2] Cyclone misses Harrier
+  [R3] Harrier misses Cyclone
+  [R3] Cyclone hits Harrier for 11 (Harrier: 259/415)
+  [R4] Harrier misses Cyclone
+  [R4] Cyclone hits Harrier for 21 (Harrier: 238/415)
+  [R5] Cyclone misses Harrier
+  [R5] Harrier misses Cyclone
+  [R6] Cyclone hits Harrier for 8 (Harrier: 230/415)
+  [R6] Harrier hits Cyclone for 43 (Cyclone: 190/235)
+  [R7] Cyclone misses Harrier
+  [R7] Harrier misses Cyclone
+  [R8] Harrier hits Cyclone for 39 (Cyclone: 151/235)
+  [R8] Cyclone misses Harrier
+  [R9] Harrier hits Cyclone for 25 (Cyclone: 126/235)
+  [R9] Cyclone hits Harrier for 42 (Harrier: 188/415)
+  [R10] Cyclone hits Harrier for 49 (Harrier: 139/415)
+  [R10] Harrier misses Cyclone
+  [R11] Cyclone hits Harrier for 11 (Harrier: 128/415)
+  [R11] Harrier misses Cyclone
+  [R12] Harrier misses Cyclone
+  [R12] Cyclone hits Harrier for 46 (Harrier: 82/415)
+  [R13] Harrier misses Cyclone
+  [R13] Cyclone hits Harrier for 37 (Harrier: 45/415)
+  [R14] Cyclone misses Harrier
+  [R14] Harrier hits Cyclone for 24 (Cyclone: 102/235)
+  [R15] Harrier misses Cyclone
+  [R15] Cyclone hits Harrier for 64 (Harrier: 0/415)
+  BOOOOOMMMM Harrier destroyed!!!!!
+  Cyclone returns to Doomsday with 102/235 structure.
+
+--- Duel 16: Lancer (Dreadnought) vs Hydra (Doomsday) ---
+  [R1] Lancer hits Hydra for 39 (Hydra: 212/395)
+  [R1] Hydra hits Lancer for 32 (Lancer: 240/345)
+  [R2] Lancer hits Hydra for 29 (Hydra: 183/395)
+  [R2] Hydra misses Lancer
+  [R3] Lancer misses Hydra
+  [R3] Hydra hits Lancer for 11 (Lancer: 229/345)
+  [R4] Hydra misses Lancer
+  [R4] Lancer hits Hydra for 18 (Hydra: 165/395)
+  [R5] Lancer hits Hydra for 18 (Hydra: 147/395)
+  [R5] Hydra hits Lancer for 28 (Lancer: 201/345)
+  [R6] Lancer hits Hydra for 16 (Hydra: 131/395)
+  [R6] Hydra hits Lancer for 10 (Lancer: 191/345)
+  [R7] Hydra hits Lancer for 24 (Lancer: 167/345)
+  [R7] Lancer misses Hydra
+  [R8] Hydra hits Lancer for 31 (Lancer: 136/345)
+  [R8] Lancer misses Hydra
+  [R9] Lancer misses Hydra
+  [R9] Hydra misses Lancer
+  [R10] Hydra hits Lancer for 46 (Lancer: 90/345)
+  [R10] Lancer hits Hydra for 27 (Hydra: 104/395)
+  [R11] Hydra misses Lancer
+  [R11] Lancer misses Hydra
+  [R12] Lancer misses Hydra
+  [R12] Hydra misses Lancer
+  [R13] Lancer hits Hydra for 49 (Hydra: 55/395)
+  [R13] Hydra hits Lancer for 43 (Lancer: 47/345)
+  [R14] Lancer misses Hydra
+  [R14] Hydra misses Lancer
+  [R15] Lancer hits Hydra for 4 (Hydra: 51/395)
+  [R15] Hydra hits Lancer for 18 (Lancer: 29/345)
+  [R16] Hydra hits Lancer for 36 (Lancer: 0/345)
+  BOOOOOMMMM Lancer destroyed!!!!!
+  Hydra returns to Doomsday with 51/395 structure.
+
+--- Duel 17: Wraith (Dreadnought) vs Viper (Doomsday) ---
+  [R1] Wraith misses Viper
+  [R1] Viper hits Wraith for 33 (Wraith: 257/380)
+  [R2] Viper misses Wraith
+  [R2] Wraith misses Viper
+  [R3] Wraith hits Viper for 16 (Viper: 210/260)
+  [R3] Viper hits Wraith for 47 (Wraith: 210/380)
+  [R4] Viper misses Wraith
+  [R4] Wraith hits Viper for 9 (Viper: 201/260)
+  [R5] Viper hits Wraith for 65 (Wraith: 145/380)
+  [R5] Wraith misses Viper
+  [R6] Viper misses Wraith
+  [R6] Wraith misses Viper
+  [R7] Wraith hits Viper for 49 (Viper: 152/260)
+  [R7] Viper misses Wraith
+  [R8] Viper hits Wraith for 47 (Wraith: 98/380)
+  [R8] Wraith misses Viper
+  [R9] Viper misses Wraith
+  [R9] Wraith hits Viper for 34 (Viper: 118/260)
+  [R10] Wraith misses Viper
+  [R10] Viper misses Wraith
+  [R11] Wraith misses Viper
+  [R11] Viper hits Wraith for 48 (Wraith: 50/380)
+  [R12] Viper hits Wraith for 27 (Wraith: 23/380)
+  [R12] Wraith misses Viper
+  [R13] Viper hits Wraith for 32 (Wraith: 0/380)
+  BOOOOOMMMM Wraith destroyed!!!!!
+  Viper returns to Doomsday with 118/260 structure.
+
+--- Duel 18: Nomad (Dreadnought) vs Specter (Doomsday) ---
+  [R1] Nomad hits Specter for 29 (Specter: 188/300)
+  [R1] Specter hits Nomad for 22 (Nomad: 218/240)
+  [R2] Specter hits Nomad for 55 (Nomad: 163/240)
+  [R2] Nomad hits Specter for 20 (Specter: 168/300)
+  [R3] Nomad hits Specter for 73 (Specter: 95/300)
+  [R3] Specter misses Nomad
+  [R4] Nomad misses Specter
+  [R4] Specter hits Nomad for 8 (Nomad: 155/240)
+  [R5] Nomad misses Specter
+  [R5] Specter misses Nomad
+  [R6] Nomad misses Specter
+  [R6] Specter misses Nomad
+  [R7] Nomad hits Specter for 18 (Specter: 77/300)
+  [R7] Specter hits Nomad for 10 (Nomad: 145/240)
+  [R8] Specter hits Nomad for 37 (Nomad: 108/240)
+  [R8] Nomad hits Specter for 43 (Specter: 34/300)
+  [R9] Nomad hits Specter for 70 (Specter: 0/300)
+  BOOOOOMMMM Specter destroyed!!!!!
+  Nomad returns to Dreadnought with 108/240 structure.
+
+--- Duel 19: Banshee (Dreadnought) vs Onyx (Doomsday) ---
+  [R1] Onyx hits Banshee for 29 (Banshee: 212/295)
+  [R1] Banshee hits Onyx for 44 (Onyx: 180/360)
+  [R2] Banshee hits Onyx for 31 (Onyx: 149/360)
+  [R2] Onyx misses Banshee
+  [R3] Onyx hits Banshee for 18 (Banshee: 194/295)
+  [R3] Banshee hits Onyx for 46 (Onyx: 103/360)
+  [R4] Onyx misses Banshee
+  [R4] Banshee misses Onyx
+  [R5] Banshee hits Onyx for 53 (Onyx: 50/360)
+  [R5] Onyx hits Banshee for 29 (Banshee: 165/295)
+  [R6] Onyx misses Banshee
+  [R6] Banshee hits Onyx for 63 (Onyx: 0/360)
+  BOOOOOMMMM Onyx destroyed!!!!!
+  Banshee returns to Dreadnought with 165/295 structure.
+
+--- Duel 20: Sparrow (Dreadnought) vs Phantom (Doomsday) ---
+  [R1] Phantom hits Sparrow for 39 (Sparrow: 186/225)
+  [R1] Sparrow hits Phantom for 21 (Phantom: 211/340)
+  [R2] Phantom misses Sparrow
+  [R2] Sparrow hits Phantom for 60 (Phantom: 151/340)
+  [R3] Phantom misses Sparrow
+  [R3] Sparrow misses Phantom
+  [R4] Sparrow hits Phantom for 75 (Phantom: 76/340)
+  [R4] Phantom misses Sparrow
+  [R5] Phantom misses Sparrow
+  [R5] Sparrow misses Phantom
+  [R6] Phantom misses Sparrow
+  [R6] Sparrow hits Phantom for 21 (Phantom: 55/340)
+  [R7] Sparrow misses Phantom
+  [R7] Phantom misses Sparrow
+  [R8] Phantom misses Sparrow
+  [R8] Sparrow hits Phantom for 21 (Phantom: 34/340)
+  [R9] Phantom hits Sparrow for 28 (Sparrow: 158/225)
+  [R9] Sparrow hits Phantom for 12 (Phantom: 22/340)
+  [R10] Phantom misses Sparrow
+  [R10] Sparrow misses Phantom
+  [R11] Phantom misses Sparrow
+  [R11] Sparrow misses Phantom
+  [R12] Sparrow misses Phantom
+  [R12] Phantom hits Sparrow for 29 (Sparrow: 129/225)
+  [R13] Phantom hits Sparrow for 36 (Sparrow: 93/225)
+  [R13] Sparrow hits Phantom for 52 (Phantom: 0/340)
+  BOOOOOMMMM Phantom destroyed!!!!!
+  Sparrow returns to Dreadnought with 93/225 structure.
+
+--- Duel 21: Talon (Dreadnought) vs Viper (Doomsday) ---
+  [R1] Talon hits Viper for 68 (Viper: 102/260)
+  [R1] Viper hits Talon for 39 (Talon: 193/255)
+  [R2] Viper misses Talon
+  [R2] Talon hits Viper for 2 (Viper: 100/260)
+  [R3] Talon misses Viper
+  [R3] Viper misses Talon
+  [R4] Viper misses Talon
+  [R4] Talon hits Viper for 48 (Viper: 52/260)
+  [R5] Talon misses Viper
+  [R5] Viper hits Talon for 7 (Talon: 186/255)
+  [R6] Talon misses Viper
+  [R6] Viper misses Talon
+  [R7] Viper hits Talon for 56 (Talon: 130/255)
+  [R7] Talon misses Viper
+  [R8] Viper misses Talon
+  [R8] Talon hits Viper for 33 (Viper: 19/260)
+  [R9] Talon hits Viper for 59 (Viper: 0/260)
+  BOOOOOMMMM Viper destroyed!!!!!
+  Talon returns to Dreadnought with 130/255 structure.
+
+--- Duel 22: Banshee (Dreadnought) vs Cyclone (Doomsday) ---
+  [R1] Cyclone misses Banshee
+  [R1] Banshee misses Cyclone
+  [R2] Cyclone misses Banshee
+  [R2] Banshee hits Cyclone for 7 (Cyclone: 172/235)
+  [R3] Banshee misses Cyclone
+  [R3] Cyclone hits Banshee for 5 (Banshee: 202/295)
+  [R4] Banshee misses Cyclone
+  [R4] Cyclone hits Banshee for 5 (Banshee: 197/295)
+  [R5] Cyclone hits Banshee for 72 (Banshee: 125/295)
+  [R5] Banshee misses Cyclone
+  [R6] Cyclone hits Banshee for 14 (Banshee: 111/295)
+  [R6] Banshee hits Cyclone for 3 (Cyclone: 169/235)
+  [R7] Banshee hits Cyclone for 44 (Cyclone: 125/235)
+  [R7] Cyclone hits Banshee for 38 (Banshee: 73/295)
+  [R8] Banshee hits Cyclone for 44 (Cyclone: 81/235)
+  [R8] Cyclone misses Banshee
+  [R9] Banshee hits Cyclone for 35 (Cyclone: 46/235)
+  [R9] Cyclone misses Banshee
+  [R10] Cyclone hits Banshee for 20 (Banshee: 53/295)
+  [R10] Banshee hits Cyclone for 27 (Cyclone: 19/235)
+  [R11] Banshee misses Cyclone
+  [R11] Cyclone misses Banshee
+  [R12] Cyclone hits Banshee for 1 (Banshee: 52/295)
+  [R12] Banshee hits Cyclone for 18 (Cyclone: 1/235)
+  [R13] Cyclone hits Banshee for 55 (Banshee: 0/295)
+  BOOOOOMMMM Banshee destroyed!!!!!
+  Cyclone returns to Doomsday with 1/235 structure.
+
+--- Duel 23: Zephyr (Dreadnought) vs Hydra (Doomsday) ---
+  [R1] Zephyr misses Hydra
+  [R1] Hydra hits Zephyr for 23 (Zephyr: 164/280)
+  [R2] Zephyr misses Hydra
+  [R2] Hydra hits Zephyr for 30 (Zephyr: 134/280)
+  [R3] Zephyr hits Hydra for 1 (Hydra: 183/395)
+  [R3] Hydra misses Zephyr
+  [R4] Zephyr misses Hydra
+  [R4] Hydra hits Zephyr for 4 (Zephyr: 130/280)
+  [R5] Hydra misses Zephyr
+  [R5] Zephyr misses Hydra
+  [R6] Hydra misses Zephyr
+  [R6] Zephyr hits Hydra for 28 (Hydra: 155/395)
+  [R7] Zephyr misses Hydra
+  [R7] Hydra misses Zephyr
+  [R8] Hydra hits Zephyr for 11 (Zephyr: 119/280)
+  [R8] Zephyr hits Hydra for 42 (Hydra: 113/395)
+  [R9] Hydra misses Zephyr
+  [R9] Zephyr hits Hydra for 59 (Hydra: 54/395)
+  [R10] Hydra misses Zephyr
+  [R10] Zephyr hits Hydra for 36 (Hydra: 18/395)
+  [R11] Hydra misses Zephyr
+  [R11] Zephyr hits Hydra for 57 (Hydra: 0/395)
+  BOOOOOMMMM Hydra destroyed!!!!!
+  Zephyr returns to Dreadnought with 119/280 structure.
+
+--- Duel 24: Nomad (Dreadnought) vs Cyclone (Doomsday) ---
+  [R1] Nomad hits Cyclone for 21 (Cyclone: 2/235)
+  [R1] Cyclone misses Nomad
+  [R2] Nomad hits Cyclone for 25 (Cyclone: 0/235)
+  BOOOOOMMMM Cyclone destroyed!!!!!
+  Nomad returns to Dreadnought with 180/240 structure.
+
+*** Dreadnought wins the battle after 24 duels with 4 fighter(s) remaining. ***
+
+===== FINAL STATE =====
+Carrier: Dreadnought  (4/20 bays in use)
+   0. Nomad         Structure:  192/240   Damage: 77
+   1. Talon         Structure:  178/255   Damage: 68
+   2. Sparrow       Structure:  148/225   Damage: 80
+   3. Zephyr        Structure:  147/280   Damage: 60
+
+Carrier: Doomsday  (0/18 bays in use)
+   (no fighters)
